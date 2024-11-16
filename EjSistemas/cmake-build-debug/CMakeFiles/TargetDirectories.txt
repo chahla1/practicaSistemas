@@ -1,0 +1,3 @@
+C:/Users/chahla/CLionProjects/EjSistemas/cmake-build-debug/CMakeFiles/EjSistemas.dir
+C:/Users/chahla/CLionProjects/EjSistemas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chahla/CLionProjects/EjSistemas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
