@@ -1,0 +1,3 @@
+C:/Users/chahla/CLionProjects/practicaSistemas/cmake-build-debug/CMakeFiles/practicaSistemas.dir
+C:/Users/chahla/CLionProjects/practicaSistemas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chahla/CLionProjects/practicaSistemas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
